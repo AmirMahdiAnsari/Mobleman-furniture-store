@@ -1,3 +1,18 @@
+@media screen and (max-width: 1600px) {
+  #hanging-lamp-two .hanging-two-cover{
+    left: 35.3%;
+  }
+
+  #sofa .sofa-cover{
+    right: 98.5%;
+  }
+
+  #sofa-lamp-two .sofa-back-two{
+    right: 35.3%;
+  }
+  
+}
+
 @media screen and (max-width: 1400px) {
   #hanging-lamp .hanging-lamp .hanging-right .img-right img {
     width: 350px;
